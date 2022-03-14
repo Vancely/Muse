@@ -19,17 +19,21 @@
 <p align="center">
 This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b>Muse</b>, is a family of graphics service developed by <b>Vancely Studios</b> (or <b>Vancely Corporation</b>) and original author by <b>Cyril John Magayaga</b> (best known for founder of <b>Vancely Studios</b>).
 </p>
-
-
-## Type of Vancely Muse
+  
+### Type of Vancely Muse
 * **Muse Studio** - This is a vector graphics editor and SVG-based source-code editor. [**Available**]
 * **Muse Sprite** - This is a SVG-based sprite. [**Available**]
 * **Muse Theme** - This is a themes and websites [**Available**]
 * **Muse Fresco** - This is a vector and raster graphics editor. [**Coming soon**]
 
-## Original Author
+### Release History
+* **December 4, 2021** - Vancely releases a new version of **Vancely Muse** is vector graphics editor.
+* **January 7, 2022** - Vancely releases a new version of **Vancely Icons** is SVG-based sprites.
+* **March 13, 2022** - Vancely releases a new version of **Vancely Muse Theme** is a web framework-based websites. The **Vancely Muse Sprite** is a formerly known as **Vancely Icons** and **Vancely Muse Studios** is a commonly known and formerly known as **Vancely Muse**.
+
+### Original Author
 [@magayaga](https://github.com/magayaga)
 
-## Copyright and License
+### Copyright and License
 * **Copyright 2021-2022** Cyril John Magayaga. Licensed under the **OpinionOne License**
 * **Copyright 2021-2022** Vancely Corporation. Licensed under the **MIT License**.
