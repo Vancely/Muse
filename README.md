@@ -5,6 +5,7 @@
 </p>
 
 <h3 align="center">Vancely Muse</h3>
+<h4 align="center"> --< This group of graphics families >-- </h4>
 <p align="center">
   <a href="https://github.com/Vancely/Muse/tree/main/Muse%20Sprite">Sprite</a>
   ·
@@ -26,8 +27,9 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
 * **Muse Theme** - This is a themes and websites [**Available**]
 * **Muse Fresco** - This is a vector and raster graphics editor. [**Coming soon**]
 
-## License
-* [MIT License](https://github.com/Vancely/Muse/blob/main/LICENSE) (March 14, 2022 - present)
-
 ## Original Author
 [@magayaga](https://github.com/magayaga)
+
+## Copyright and License
+* **Copyright 2021-2022** Cyril John Magayaga. Licensed under the **OpinionOne License**
+* **Copyright 2021-2022** Vancely Corporation. Licensed under the **MIT License**.
