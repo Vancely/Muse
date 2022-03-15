@@ -34,7 +34,7 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
     https://github.com/Vancely/Muse.git
     ```
     _Use Git or checkout with SVN using the web URL._
-  * SSH
+  * **SSH**
     |You don't have any public SSH keys in your GitHub account. You can add a new public key, or try cloning this repository via HTTPS.|
     |--|
   
@@ -42,7 +42,7 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
     git@github.com:Vancely/Muse.git
     ```
     _Use a password-protected SSH key._
-  * GitHub CLI
+  * **GitHub CLI**
     ```
     gh repo clone Vancely/Muse
     ```
@@ -53,9 +53,33 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
 * **January 7, 2022** - Vancely releases a new version of **Vancely Icons** is SVG-based sprites.
 * **March 13, 2022** - Vancely releases a new version of **Vancely Muse Theme** is a web framework-based websites. The **Vancely Muse Sprite** is a formerly known as **Vancely Icons** and **Vancely Muse Studios** is a commonly known and formerly known as **Vancely Muse**.
 
+## Browser Support
+* **Muse Studio**
+  | Chrome | Opera | Firefox | Safari |
+  |-|-|-|-|
+  |A|A|A|A|
+
+* **Muse Sprite**
+  | Chrome | Opera | Firefox | Safari |
+  |-|-|-|-|
+  |A|A|A|A|
+
+* **Muse Theme**
+  | Chrome | Opera | Firefox | Safari |
+  |-|-|-|-|
+  |A|A|A|A|
+
+* **Muse Fresco**
+  | Chrome | Opera | Firefox | Safari |
+  |-|-|-|-|
+  |A|A|A|A|
+
+A-grade browsers are fully supported. B-grade browsers will gracefully degrade to our CSS-only experience.
+  
 ## Original Author
 [@magayaga](https://github.com/magayaga)
 
 ## Copyright and License
 * **Copyright 2021-2022** Cyril John Magayaga. Licensed under the **OpinionOne License**
+  * **Copyright 2022** OpinionWork Foundation. Licensed under the **OpinionOne License**
 * **Copyright 2021-2022** Vancely Corporation. Licensed under the **MIT License**.
