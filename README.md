@@ -27,7 +27,6 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
 * **Muse Fresco** - This is a vector and raster graphics editor. [**Coming soon**]
 
 ## Getting started
-* Download the Code - [`Click Here`](https://github.com/Vancely/Muse/archive/refs/heads/main.zip)
 * Get the Code
   * **HTTPS**
     ```
@@ -52,6 +51,7 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
 * **December 4, 2021** - Vancely releases a new version of **Vancely Muse** is vector graphics editor.
 * **January 7, 2022** - Vancely releases a new version of **Vancely Icons** is SVG-based sprites.
 * **March 13, 2022** - Vancely releases a new version of **Vancely Muse Theme** is a web framework-based websites. The **Vancely Muse Sprite** is a formerly known as **Vancely Icons** and **Vancely Muse Studios** is a commonly known and formerly known as **Vancely Muse**.
+* **March 15, 2022** - 
 
 ## Browser Support
 * **Muse Studio**
