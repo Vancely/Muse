@@ -25,6 +25,7 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
 * **Muse Sprite** - This is a SVG-based sprite. [**Available**]
 * **Muse Theme** - This is a themes and websites [**Available**]
 * **Muse Fresco** - This is a vector and raster graphics editor. [**Coming soon**]
+* **Muse Draw** - This is a vector and raster graphics editor. [**Coming soon**]
 
 ## Getting started
 * Get the Code
@@ -51,7 +52,7 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
 * **December 4, 2021** - Vancely releases a new version of **Vancely Muse** is vector graphics editor.
 * **January 7, 2022** - Vancely releases a new version of **Vancely Icons** is SVG-based sprites.
 * **March 13, 2022** - Vancely releases a new version of **Vancely Muse Theme** is a web framework-based websites. The **Vancely Muse Sprite** is a formerly known as **Vancely Icons** and **Vancely Muse Studios** is a commonly known and formerly known as **Vancely Muse**.
-* **March 15, 2022** - 
+* **March 15, 2022** - Vancely Fresco [Not to be confused with **Adobe Fresco**] is a free open-source sofware-based raster and vector graphics editor, was pre-released on upcoming soon on **May 2022**. 
 
 ## Browser Support
 * **Muse Studio**
@@ -75,6 +76,16 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
   |A|A|A|A|
 
 A-grade browsers are fully supported. B-grade browsers will gracefully degrade to our CSS-only experience.
+
+## Copy and partnership
+  * [**Method-Draw**](https://github.com/methodofaction/Method-Draw)
+  * [**SVG-Editor**](https://github.com/SVG-Edit/svgedit)
+  * [**Material-Dashboard**](https://github.com/creativetimofficial/material-dashboard)
+  * [**miniPaint**](https://github.com/viliusle/miniPaint)
+  * [**JSPaint**](https://github.com/1j01/jspaint)
+  * [**signature_pad**](https://github.com/szimek/signature_pad)
+  * [**tldraw**](https://github.com/tldraw/tldraw)
+  
   
 ## Original Author
 [@magayaga](https://github.com/magayaga)
