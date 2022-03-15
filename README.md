@@ -88,7 +88,7 @@ A-grade browsers are fully supported. B-grade browsers will gracefully degrade t
   
   
 ## Original Author
-[@magayaga](https://github.com/magayaga)
+[@magayaga](https://github.com/magayaga) - creator of Muse
 
 ## Copyright and License
 * **Copyright 2021-2022** Cyril John Magayaga. Licensed under the **OpinionOne License**
