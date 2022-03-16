@@ -53,6 +53,7 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
 * **January 7, 2022** - Vancely releases a new version of **Vancely Icons** is SVG-based sprites.
 * **March 13, 2022** - Vancely releases a new version of **Vancely Muse Theme** is a web framework-based websites. The **Vancely Muse Sprite** is a formerly known as **Vancely Icons** and **Vancely Muse Studios** is a commonly known and formerly known as **Vancely Muse**.
 * **March 15, 2022** - Vancely Fresco [Not to be confused with **Adobe Fresco**] is a free open-source sofware-based raster and vector graphics editor, was pre-released on upcoming soon on **May 2022**. 
+* **March 16, 2022** - Vancely Corporation versus Graphite Editor, the largest programming languages, and many more.
 
 ## Browser Support
 * **Muse Studio**
@@ -88,7 +89,7 @@ A-grade browsers are fully supported. B-grade browsers will gracefully degrade t
   
   
 ## Original Author
-[@magayaga](https://github.com/magayaga) - creator of Muse
+[@magayaga](https://github.com/magayaga) - creator of Muse, founder and chief executive officer of Vancely Corporation
 
 ## Copyright and License
 * **Copyright 2021-2022** Cyril John Magayaga. Licensed under the **OpinionOne License**
