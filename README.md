@@ -25,7 +25,6 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
 * **Muse Sprite** - This is a SVG-based sprite. [**Available**]
 * **Muse Theme** - This is a themes and websites [**Available**]
 * **Muse Fresco** - This is a vector and raster graphics editor. [**Coming soon**]
-* **Muse Handly** - This is a vector and raster graphics editor. [**Coming soon**]
 
 ## Getting started
 * Get the Code
