@@ -54,6 +54,7 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
 * **March 15, 2022** - Vancely Fresco [Not to be confused with **Adobe Fresco**] is a free open-source sofware-based raster and vector graphics editor, was pre-released on upcoming soon on **May 2022**. 
 * **March 16, 2022** - Vancely Corporation versus Graphite Editor, the largest programming languages, and many more.
 * **March 21, 2022** - First developer preview of **Muse Fresco**.
+* **March 30, 2022** - The Philippines' largest web-based raster and vector graphics editor, it is a one of the graphics application.
 
 ## Browser Support
 * **Muse Studio**
