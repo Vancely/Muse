@@ -55,6 +55,7 @@ This is formerly known as <b>Intergralty Muse</b> and commonly referred to as <b
 * **March 16, 2022** - Vancely Corporation versus Graphite Editor, the largest programming languages, and many more.
 * **March 21, 2022** - First developer preview of **Muse Fresco**.
 * **March 30, 2022** - The Philippines' largest web-based raster and vector graphics editor, it is a one of the graphics application.
+* **July 19, 2022** - [**MaterialOne**](https://github.com/verifo/MaterialOne) to Muse Theme.
 
 ## Browser Support
 * **Muse Studio**
