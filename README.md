@@ -94,6 +94,6 @@ A-grade browsers are fully supported. B-grade browsers will gracefully degrade t
 [@magayaga](https://github.com/magayaga) - original author and creator of Muse, founder and chief executive officer of Vancely Corporation
 
 ## Copyright and License
-* **Copyright 2021-2022** Cyril John Magayaga. Licensed under the **OpinionOne License**
-  * **Copyright 2022** OpinionWork Foundation. Licensed under the **OpinionOne License**
+* **Copyright 2021-2024** Cyril John Magayaga. Licensed under the **OpinionOne License**
+  * **Copyright 2022-2024** OpinionWork Foundation. Licensed under the **OpinionOne License**
 * **Copyright 2021-2022** Vancely Corporation. Licensed under the **MIT License**.
